@@ -48,3 +48,4 @@ defaults:
     layout:  "default"
 github:
 - metadata
+encoding: utf-8
